@@ -1,4 +1,4 @@
-package daily
+package _375
 
 import "testing"
 
